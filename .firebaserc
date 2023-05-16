@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "helloworld7289"
+  },
+  "targets": {
+    "helloworld7289": {
+      "hosting": {
+        "my-crud-app": [
+          "helloworld7289"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

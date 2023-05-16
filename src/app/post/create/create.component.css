@@ -1,0 +1,29 @@
+.btn-primary{
+    background-color: #007bff;
+    border-color: #5b88b8;
+    color: #fff;
+    padding: 30 px;
+    margin: 10px;
+    width: 15%;
+}
+.form-group{
+    padding: 50 px;
+    
+}
+@media screen and (max-width: 600px) {
+    .form-group{
+        flex-direction: column;
+    }
+}
+    
+.form-control{
+    margin: 10px;
+    width: 15%;
+}
+@media screen and (max-width: 600px) {
+    .form-control{
+        margin: 10px;
+        width: 15%;
+    }
+}
+    

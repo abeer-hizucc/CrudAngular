@@ -1,0 +1,19 @@
+.valoasu{
+    margin: auto;
+    text-align: center;
+    display: flex;
+    margin-top: 10 px;
+    justify-content: center;
+
+}
+.hello{
+ background-color: rgb(14, 14, 92);
+ color: azure;
+ cursor: pointer; 
+ margin-right: 10px;  
+}
+.hello:hover{
+    background-color: #52528a;
+    color: azure;
+    cursor: pointer;
+}
